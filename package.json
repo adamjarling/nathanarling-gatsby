@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "nathan-arling-gatsby",
+  "description": "nathanarling.com website",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Adam J. Arling",
   "dependencies": {
     "gatsby": "^2.15.28",
     "gatsby-plugin-manifest": "^2.2.20",
@@ -15,7 +15,7 @@
     "react-helmet": "^5.2.1"
   },
   "keywords": [
-    "gatsby"
+    "Nathan Arling"
   ],
   "license": "MIT",
   "scripts": {
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/adamjarling/"
   }
 }

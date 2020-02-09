@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Nathan Arling - drummer, talent agent and musician',
     author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    description: 'Nathan Arling - drummer, talent agent and musician',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
