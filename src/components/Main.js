@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+import pic01 from '../images/nate-tlv-stage.jpg'
+import pic02 from '../images/nate-stage-slam.jpg'
+import pic03 from '../images/NatalSnareBus.jpg'
 
 class Main extends React.Component {
   render() {
@@ -138,30 +138,36 @@ class Main extends React.Component {
             </ul>
           </form>
           <ul className="icons">
-            <li>
+            {/* <li>
               <a
                 href="https://twitter.com/HuntaroSan"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
-            </li>
+            </li> */}
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
+              <a
+                href="https://www.facebook.com/nathan.arling"
+                className="icon fa-facebook"
+              >
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a
+                href="https://www.instagram.com/nathanarling/"
+                className="icon fa-instagram"
+              >
                 <span className="label">Instagram</span>
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
-                className="icon fa-github"
+                href="mailto:arling.nathan@gmail.com"
+                className="icon fa-envelope"
               >
-                <span className="label">GitHub</span>
+                <span className="label">Mail</span>
               </a>
             </li>
           </ul>

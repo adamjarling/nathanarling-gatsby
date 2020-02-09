@@ -10,11 +10,8 @@ const Header = props => (
       <div className="inner">
         <h1>Nathan Arling</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          Drummer, talent agent and musician with over 20 years experience in
+          clubs, on the road, and exploring the world.
         </p>
       </div>
     </div>
